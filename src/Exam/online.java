@@ -16,10 +16,7 @@ import javax.swing.JRadioButton;
 import javax.swing.UIManager;
 import javax.swing.UnsupportedLookAndFeelException;
 
-/**
- *
- * @author QUAZI HASNAT IRFAN
- */
+
 public class online extends JFrame implements ActionListener {
 
     JLabel l;
